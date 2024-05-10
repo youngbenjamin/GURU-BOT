@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner = [young
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
   [''] 
